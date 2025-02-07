@@ -56,7 +56,9 @@ pg2.connect(database="SUA_BASE_DADOS", user="USUARIO_BANCO_DADOS", password="SUA
 
 ### 5. Executar o Projeto
 
- python main.py
+```powershell
+python main.py
+```
 
 ### Estrutura do Projeto
 
