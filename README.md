@@ -29,7 +29,7 @@ Este é um projeto de sistema CRUD (Create, Read, Update, Delete) desenvolvido e
 ### 1. Clonar o Repositório
 
 ```
-git clone https://github.com/seuusuario/nome-do-repositorio.git
+git clone https://github.com/zantech-pro/CRUDxPostgreexTkinter.git
 cd nome-do-repositorio
 ```
 
